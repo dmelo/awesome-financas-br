@@ -25,9 +25,8 @@ Os itens são para fins educativos e de referência e não constituem recomenda�
 
 - [André Bona](https://andrebona.com.br) - Blog de educação financeira e investimentos mantido pelo consultor André Bona.
 - [Clube do Valor](https://clubedovalor.com.br/blog/) - Blog sobre investimentos e finanças pessoais com foco em planejamento de longo prazo.
-- [Dinheirama](https://investimentos.com.br/) - Site de conteúdo educativo sobre finanças pessoais e investimentos (atualmente em investimentos.com.br).
 - [InfoMoney](https://www.infomoney.com.br) - Portal de notícias sobre mercado financeiro, investimentos e economia.
-- [Nubank](https://blog.nubank.com.br) - Blog com conteúdos sobre finanças pessoais, investimentos e o universo financeiro.
+- [Investimentos.com.br](https://investimentos.com.br/) - Portal de conteúdo educativo sobre finanças pessoais e investimentos, que incorporou a antiga marca Dinheirama.
 - [Suno](https://www.suno.com.br/artigos/) - Seção de artigos sobre investimentos, finanças pessoais e análise de empresas.
 - [Valor Investe](https://valorinveste.globo.com/) - Site de notícias e conteúdo sobre investimentos e finanças pessoais do Valor Econômico.
 - [Vestu](https://www.vestu.app/blog) - Blog sobre renda fixa e investimentos no Brasil.
@@ -61,22 +60,21 @@ Os itens são para fins educativos e de referência e não constituem recomenda�
 - [InfoMoney](https://www.infomoney.com.br/newsletters/) - Página de newsletters gratuitas do InfoMoney sobre investimentos, economia e mercado.
 - [Money Times](https://www.moneytimes.com.br/newsletters/) - Newsletters gratuitas do Money Times sobre mercado financeiro, cripto e agronegócio.
 - [Seu Dinheiro](https://www.seudinheiro.com/newsletter/) - Newsletter gratuita do Seu Dinheiro com notícias e análises de investimentos.
-- [The AgriBiz](https://www.theagribiz.com/) - Newsletter gratuita sobre agronegócio, economia e investimentos no setor.
 
 ## Ferramentas e Calculadoras
 
 - [Calculadora do Cidadão (Banco Central)](https://www3.bcb.gov.br/CALCIDADAO/publico/exibirFormCorrecaoValores.do?method=exibirFormCorrecaoValores) - Corrige valores por índices como IPCA, IGP-M, Selic, CDI e TR e calcula aplicações e financiamentos.
-- [ReVar — Calculadora de Renda Variável (Receita Federal)](https://www.gov.br/pt-br/servicos/apurar-imposto-sobre-renda-variavel) - Apura o imposto de renda de pessoa física sobre operações de renda variável e gera o DARF, usando dados da B3.
-- [Simulador do Tesouro Direto](https://simulador.tesourodireto.com.br/) - Projeta a rentabilidade de títulos públicos a partir do valor aplicado e do prazo escolhidos.
+- [ReVar — Apuração de Renda Variável (Receita Federal)](https://www.gov.br/pt-br/servicos/apurar-imposto-sobre-renda-variavel) - Serviço da Receita Federal que apura o imposto de renda sobre operações de renda variável a partir de dados da B3, acessado pelo e-CAC com conta gov.br.
+- [Simulador do Tesouro Direto](https://www.tesourodireto.com.br/simuladores/) - Simuladores oficiais do Tesouro Direto para projetar a rentabilidade de títulos públicos por valor e prazo.
 - [Vestu — Calculadora de Independência Financeira](https://www.vestu.app/tools/calculadora-independencia-financeira/) - Estima em quanto tempo a renda dos investimentos cobre os gastos, em valores de hoje, e roda inteiramente no navegador.
 
 ## Dados e APIs
 
-- [B3 for Developers](https://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/b3-for-developers/) - Portal de APIs e dados de mercado da bolsa brasileira, com documentação técnica.
+- [B3 for Developers](https://www.b3.com.br/pt_br/market-data-e-indices/servicos-de-dados/b3-for-developers/) - Portal de APIs e dados de mercado da B3 para desenvolvedores; parte dos serviços é de acesso contratado.
 - [Banco Central — Portal de Dados Abertos](https://dadosabertos.bcb.gov.br/) - Disponibiliza conjuntos de dados do Banco Central em formatos como JSON, CSV, API e OData.
 - [Banco Central — Sistema Gerenciador de Séries Temporais (SGS)](https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries) - Permite consultar e baixar séries econômico-financeiras como Selic, CDI e IPCA, com acesso também via API (api.bcb.gov.br).
 - [brapi.dev](https://brapi.dev/) - API REST que agrega dados financeiros do Brasil, como cotações de ações, FIIs, criptomoedas e indicadores macroeconômicos.
-- [IBGE — API de Serviços de Dados](https://servicodados.ibge.gov.br/api/docs) - Reúne APIs do IBGE, incluindo a de Agregados (SIDRA), que dá acesso a séries como IPCA e INPC.
+- [IBGE — API de Serviços de Dados](https://servicodados.ibge.gov.br/api/docs) - APIs públicas do IBGE, incluindo a de Agregados (SIDRA), com séries econômicas como o IPCA e o INPC.
 
 ## Educação e Órgãos Oficiais
 
@@ -108,10 +106,7 @@ Os itens são para fins educativos e de referência e não constituem recomenda�
 
 ## Comunidades
 
-- [r/farialimabets](https://www.reddit.com/r/farialimabets/) - Comunidade brasileira sobre mercado financeiro com tom humorístico e satírico.
-- [r/financas](https://www.reddit.com/r/financas/) - Comunidade em português sobre finanças corporativas, valuation, modelagem financeira e carreiras na área.
 - [r/financaspessoais](https://www.reddit.com/r/financaspessoais/) - Comunidade para discutir assuntos de finanças pessoais.
-- [r/financaspessoaisBR](https://www.reddit.com/r/financaspessoaisBR/) - Comunidade brasileira voltada a discussões de finanças pessoais.
 - [r/investimentos](https://www.reddit.com/r/investimentos/) - Comunidade em português sobre investimentos no Brasil, incluindo Tesouro Direto, CDB, FIIs e alocação de ativos.
 - [r/MercadoFinanceiro](https://www.reddit.com/r/MercadoFinanceiro/) - Comunidade brasileira sobre mercado financeiro, ações, opções e fundos imobiliários.
 
