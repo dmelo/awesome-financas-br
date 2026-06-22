@@ -99,16 +99,14 @@ Os itens são para fins educativos e de referência e não constituem recomenda�
 - *O Homem Mais Rico da Babilônia* — George S. Clason.
 - *O Investidor Inteligente* — Benjamin Graham.
 - *O Jeito Warren Buffett de Investir* — Robert G. Hagstrom.
-- *Os Axiomas de Zurique* — Max Gunther.
-- *Os Segredos da Mente Milionária* — T. Harv Eker.
 - *Pai Rico, Pai Pobre* — Robert T. Kiyosaki.
-- *Quem Pensa Enriquece* — Napoleon Hill.
 
 ## Comunidades
 
 - [r/financaspessoais](https://www.reddit.com/r/financaspessoais/) - Comunidade para discutir assuntos de finanças pessoais.
 - [r/investimentos](https://www.reddit.com/r/investimentos/) - Comunidade em português sobre investimentos no Brasil, incluindo Tesouro Direto, CDB, FIIs e alocação de ativos.
 - [r/MercadoFinanceiro](https://www.reddit.com/r/MercadoFinanceiro/) - Comunidade brasileira sobre mercado financeiro, ações, opções e fundos imobiliários.
+- [Renda Fixa na Veia (Telegram)](https://t.me/rendafixanaveia) - Grupo no Telegram para discussão de renda fixa no Brasil, com regras contra spam e recomendações.
 
 ## Contribuindo
 
