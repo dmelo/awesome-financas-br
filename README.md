@@ -24,7 +24,6 @@ Os itens são para fins educativos e de referência e não constituem recomenda�
 ## Blogs e Sites
 
 - [André Bona](https://andrebona.com.br) - Blog de educação financeira e investimentos mantido pelo consultor André Bona.
-- [Clube do Valor](https://clubedovalor.com.br/blog/) - Blog sobre investimentos e finanças pessoais com foco em planejamento de longo prazo.
 - [InfoMoney](https://www.infomoney.com.br) - Portal de notícias sobre mercado financeiro, investimentos e economia.
 - [Investimentos.com.br](https://investimentos.com.br/) - Portal de conteúdo educativo sobre finanças pessoais e investimentos, que incorporou a antiga marca Dinheirama.
 - [Suno](https://www.suno.com.br/artigos/) - Seção de artigos sobre investimentos, finanças pessoais e análise de empresas.
@@ -38,7 +37,6 @@ Os itens são para fins educativos e de referência e não constituem recomenda�
 - [EconoMirna](https://www.youtube.com/@economirna) - Canal de educação financeira e investimentos apresentado por Mirna Borges.
 - [Gustavo Cerbasi](https://www.youtube.com/@gustavocerbasi) - Canal de educação financeira e planejamento financeiro.
 - [Jovens de Negócios](https://www.youtube.com/@jovensdenegocios) - Canal sobre investimentos, negócios e finanças apresentado por Breno Perrucho.
-- [Me Poupe!](https://www.youtube.com/@mepoupe) - Canal de educação financeira apresentado por Nathalia Arcuri.
 - [O Primo Rico](https://www.youtube.com/@primorico) - Canal sobre investimentos e finanças apresentado por Thiago Nigro.
 - [Valor Investe](https://www.youtube.com/@ValorInveste) - Canal sobre investimentos e finanças pessoais do Valor Econômico.
 
@@ -47,7 +45,6 @@ Os itens são para fins educativos e de referência e não constituem recomenda�
 - [Boletos Pagos com Nath Finanças](https://open.spotify.com/show/1TfuegM11MvtDz1ZKvyKnD) - Podcast de educação financeira apresentado por Nath Finanças, com episódios sobre economia e organização do dinheiro.
 - [Drops de Inteligência Financeira](https://open.spotify.com/show/2VqGZVZmUnEqieAp7kwPKO) - Podcast sobre finanças pessoais e investimentos apresentado por Gustavo Cerbasi.
 - [Market Makers](https://open.spotify.com/show/2MCrAB0JUTfHxP333dGJm7) - Podcast sobre ações, investimentos e mercado financeiro com Thiago Salomão e convidados.
-- [Os Sócios Podcast](https://open.spotify.com/show/17bkR8GX6FmyKYvhQv4nOi) - Podcast do Grupo Primo sobre dinheiro, empreendedorismo e desenvolvimento pessoal, com Bruno e Malu Perini.
 - [Outliers](https://open.spotify.com/show/7vSK0uhbMcfLwOQMIlKLJE) - Podcast que entrevista gestores de fundos de investimento do Brasil.
 - [PrimoCast](https://open.spotify.com/show/2gCj9YG9tjMexhS4pIlRHo) - Podcast do Primo Rico sobre investimentos, finanças e empreendedorismo.
 - [Stock Pickers](https://open.spotify.com/show/0OKark671tCbUyszCSs5Ff) - Podcast do InfoMoney sobre ações e mercado financeiro, com gestores e analistas.
@@ -55,11 +52,9 @@ Os itens são para fins educativos e de referência e não constituem recomenda�
 ## Newsletters
 
 - [Brazil Journal](https://braziljournal.com/newsletter/) - Newsletter gratuita sobre negócios, economia e mercado, do site fundado por Geraldo Samor.
-- [Carta do Condado](https://farialimaelevator.substack.com/) - Newsletter do Faria Lima Elevator com comentários sobre mercado financeiro e economia.
 - [Exame Invest](https://exame.com/newsletters/) - Newsletters gratuitas da Exame, incluindo a edição Invest sobre mercado e investimentos.
 - [InfoMoney](https://www.infomoney.com.br/newsletters/) - Página de newsletters gratuitas do InfoMoney sobre investimentos, economia e mercado.
 - [Money Times](https://www.moneytimes.com.br/newsletters/) - Newsletters gratuitas do Money Times sobre mercado financeiro, cripto e agronegócio.
-- [Seu Dinheiro](https://www.seudinheiro.com/newsletter/) - Newsletter gratuita do Seu Dinheiro com notícias e análises de investimentos.
 
 ## Ferramentas e Calculadoras
 
