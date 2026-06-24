@@ -28,7 +28,7 @@ Os itens são para fins educativos e de referência e não constituem recomenda�
 - [Investimentos.com.br](https://investimentos.com.br/) - Portal de conteúdo educativo sobre finanças pessoais e investimentos, que incorporou a antiga marca Dinheirama.
 - [Suno](https://www.suno.com.br/artigos/) - Seção de artigos sobre investimentos, finanças pessoais e análise de empresas.
 - [Valor Investe](https://valorinveste.globo.com/) - Site de notícias e conteúdo sobre investimentos e finanças pessoais do Valor Econômico.
-- [Vestu](https://www.vestu.app/blog) - Blog sobre renda fixa e investimentos no Brasil.
+- [Vestu](https://www.vestu.app/blog) - Blog sobre renda fixa e investimentos no Brasil. _(Divulgação: quem mantém esta lista também é da Vestu — então julgue com rigor dobrado.)_
 
 ## Canais no YouTube
 
@@ -61,7 +61,7 @@ Os itens são para fins educativos e de referência e não constituem recomenda�
 - [Calculadora do Cidadão (Banco Central)](https://www3.bcb.gov.br/CALCIDADAO/publico/exibirFormCorrecaoValores.do?method=exibirFormCorrecaoValores) - Corrige valores por índices como IPCA, IGP-M, Selic, CDI e TR e calcula aplicações e financiamentos.
 - [ReVar — Apuração de Renda Variável (Receita Federal)](https://www.gov.br/pt-br/servicos/apurar-imposto-sobre-renda-variavel) - Serviço da Receita Federal que apura o imposto de renda sobre operações de renda variável a partir de dados da B3, acessado pelo e-CAC com conta gov.br.
 - [Simulador do Tesouro Direto](https://www.tesourodireto.com.br/simuladores/) - Simuladores oficiais do Tesouro Direto para projetar a rentabilidade de títulos públicos por valor e prazo.
-- [Vestu — Calculadora de Independência Financeira](https://www.vestu.app/tools/calculadora-independencia-financeira/) - Estima em quanto tempo a renda dos investimentos cobre os gastos, em valores de hoje, e roda inteiramente no navegador.
+- [Vestu — Calculadora de Independência Financeira](https://www.vestu.app/tools/calculadora-independencia-financeira/) - Estima em quanto tempo a renda dos investimentos cobre os gastos, em valores de hoje, e roda inteiramente no navegador. _(Sim, autopromoção — mas é grátis e não envia seus dados a lugar nenhum.)_
 
 ## Dados e APIs
 
