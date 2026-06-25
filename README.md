@@ -2,11 +2,11 @@
 
 > Uma lista curada de recursos brasileiros sobre finanças pessoais e investimentos — blogs, canais, podcasts, newsletters, ferramentas, dados, cursos e livros.
 
-Conteúdo em português do Brasil (pt-BR). Contribuições são bem-vindas: veja [como contribuir](#contribuindo).
+Conteúdo em português do Brasil (pt-BR). Contribuições são bem-vindas: veja [como contribuir](#contributing).
 
 Os itens são para fins educativos e de referência e não constituem recomendação de investimento.
 
-## Conteúdo
+## Contents
 
 - [Blogs e Sites](#blogs-e-sites)
 - [Canais no YouTube](#canais-no-youtube)
@@ -18,8 +18,6 @@ Os itens são para fins educativos e de referência e não constituem recomenda�
 - [Cursos](#cursos)
 - [Livros](#livros)
 - [Comunidades](#comunidades)
-- [Contribuindo](#contribuindo)
-- [Licença](#licença)
 
 ## Blogs e Sites
 
@@ -87,14 +85,14 @@ Os itens são para fins educativos e de referência e não constituem recomenda�
 
 ## Livros
 
-- *Casais Inteligentes Enriquecem Juntos* — Gustavo Cerbasi.
-- *Do Mil ao Milhão: Sem Cortar o Cafezinho* — Thiago Nigro.
-- *Investimentos Inteligentes* — Gustavo Cerbasi.
-- *Me Poupe!: 10 Passos para Nunca Mais Faltar Dinheiro no Seu Bolso* — Nathalia Arcuri.
-- *O Homem Mais Rico da Babilônia* — George S. Clason.
-- *O Investidor Inteligente* — Benjamin Graham.
-- *O Jeito Warren Buffett de Investir* — Robert G. Hagstrom.
-- *Pai Rico, Pai Pobre* — Robert T. Kiyosaki.
+- [Casais Inteligentes Enriquecem Juntos](https://www.goodreads.com/book/show/2201211) - Finanças a dois e planejamento financeiro de casais, por Gustavo Cerbasi.
+- [Do Mil ao Milhão](https://www.goodreads.com/book/show/42267651) - Introdução a investimentos e formação de patrimônio, por Thiago Nigro.
+- [Investimentos Inteligentes](https://www.goodreads.com/book/show/19180812) - Panorama de investimentos para iniciantes, por Gustavo Cerbasi.
+- [Me Poupe!](https://www.goodreads.com/book/show/40168384) - Educação financeira para iniciantes em dez passos, por Nathalia Arcuri.
+- [O Homem Mais Rico da Babilônia](https://www.goodreads.com/book/show/41104302) - Clássico de finanças pessoais em forma de parábola, por George S. Clason.
+- [O Investidor Inteligente](https://www.goodreads.com/book/show/42102710) - Clássico sobre value investing e margem de segurança, por Benjamin Graham.
+- [O Jeito Warren Buffett de Investir](https://www.goodreads.com/book/show/17720477) - Os princípios de investimento de Warren Buffett, por Robert G. Hagstrom.
+- [Pai Rico, Pai Pobre](https://www.goodreads.com/book/show/69571) - Mentalidade financeira e a distinção entre ativos e passivos, por Robert T. Kiyosaki.
 
 ## Comunidades
 
@@ -103,18 +101,12 @@ Os itens são para fins educativos e de referência e não constituem recomenda�
 - [r/MercadoFinanceiro](https://www.reddit.com/r/MercadoFinanceiro/) - Comunidade brasileira sobre mercado financeiro, ações, opções e fundos imobiliários.
 - [Renda Fixa na Veia (Telegram)](https://t.me/rendafixanaveia) - Grupo no Telegram para discussão de renda fixa no Brasil, com regras contra spam e recomendações.
 
-## Contribuindo
+## Contributing
 
-Contribuições são muito bem-vindas. Leia o [guia de contribuição](CONTRIBUTING.md) antes de abrir um *pull request*. Em resumo:
+Contribuições são muito bem-vindas. Leia o [guia de contribuição](CONTRIBUTING.md) antes de abrir um _pull request_. Em resumo:
 
 - O recurso deve ser brasileiro e em português (pt-BR).
 - Deve estar no ar e ser relevante para finanças pessoais ou investimentos.
 - Use o formato `- [Nome](URL) - Descrição.`, com descrição curta, neutra e terminando em ponto.
 - Mantenha a ordem alfabética dentro de cada seção.
 - Sem links de afiliados nem tom promocional.
-
-## Licença
-
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-Na medida permitida por lei, os contribuidores deste repositório dispensaram todos os direitos autorais e direitos conexos a esta obra (CC0 1.0 Universal). Veja [LICENSE](LICENSE).
