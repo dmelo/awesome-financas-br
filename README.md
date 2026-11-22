@@ -57,6 +57,7 @@ Os itens são para fins educativos e de referência e não constituem recomenda�
 ## Ferramentas e Calculadoras
 
 - [Calculadora do Cidadão (Banco Central)](https://www3.bcb.gov.br/CALCIDADAO/publico/exibirFormCorrecaoValores.do?method=exibirFormCorrecaoValores) - Corrige valores por IPCA, Selic, CDI e outros índices, e simula aplicações e financiamentos.
+- [Moedux](https://www.moedux.com/?utm_source=github&utm_medium=directory&utm_campaign=awesome-financas-br) - App brasileiro de controle financeiro que projeta o saldo e oferece calculadoras públicas em português.
 - [ReVar — Apuração de Renda Variável (Receita Federal)](https://www.gov.br/pt-br/servicos/apurar-imposto-sobre-renda-variavel) - Apura o imposto de renda sobre operações de renda variável a partir dos dados da B3, pelo e-CAC.
 - [Simulador do Tesouro Direto](https://www.tesourodireto.com.br/simuladores/) - Projeta a rentabilidade de títulos públicos por valor aplicado e prazo.
 - [Vestu — Calculadora de Independência Financeira](https://www.vestu.app/tools/calculadora-independencia-financeira/) - Calcula quando a renda dos seus investimentos cobre os gastos, em valores de hoje, rodando no próprio navegador. _(Sim, autopromoção — mas é grátis e não envia seus dados a lugar nenhum.)_
