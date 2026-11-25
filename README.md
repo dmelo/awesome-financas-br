@@ -68,6 +68,7 @@ Os itens são para fins educativos e de referência e não constituem recomenda�
 - [Banco Central — Sistema Gerenciador de Séries Temporais (SGS)](https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries) - Séries temporais como Selic, CDI e IPCA, também via API (api.bcb.gov.br).
 - [brapi.dev](https://brapi.dev/) - API que reúne cotações de ações, FIIs e indicadores do mercado brasileiro.
 - [IBGE — API de Serviços de Dados](https://servicodados.ibge.gov.br/api/docs) - Séries do IBGE como IPCA e INPC, pela API de Agregados (SIDRA).
+- [SLDX](https://api.sldx.com.br/docs/) - API de cotações, dividendos e fundamentos de ações e FIIs da B3, fundos da CVM, câmbio e Selic/IPCA; plano gratuito com chave e planos pagos.
 
 ## Educação e Órgãos Oficiais
 
